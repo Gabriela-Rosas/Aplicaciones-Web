@@ -9,7 +9,7 @@
 - Rosas Castillo Gabriela
 
 ## Objetivo general
-#### Desarrollar una aplicación web destinada a la comercialización y distribución de dulces típicos mexicanos para ser vendidos a otra parte del mundo, donde claramente #### no pueden consumirlos, así como ofrecer una opción para la compra de dulces extranjeros los cuales son difíciles de conseguir en México. 
+#### Desarrollar una aplicación web destinada a la comercialización y distribución de dulces típicos mexicanos para ser vendidos a otra parte del mundo, donde claramente no pueden consumirlos, así como ofrecer una opción para la compra de dulces extranjeros los cuales son difíciles de conseguir en México. 
 
 ## Historias de usuario
 
